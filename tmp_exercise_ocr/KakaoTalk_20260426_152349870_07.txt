@@ -1,0 +1,50 @@
+﻿。 괴가 2 패 실처튿 어떤 실행시켜빅
+-1 일려 카 8 패 4 。 96 걸렸다•
+일고기출
+때 k값은?
+㉭답없음
+001조가걸世, 1카파쟘도카 T('1戶
+17 어떤 알」•
+㉦8
+(1) 01 알고리즘이 1••
+“ ALGORITHM
+2
+-단일 때 값은?
+㉦4
+㉭답없음
+。 。 수환 관계를 가가 - 표현한 것이다• 다음 중 옳지 것을
+4T(n)=O(n2)
+모두 고르라•
+T(I)
+0T(n)$9T 1
+@T(n)—3T 5
+_yn T(I)—
+3,1 十T 4
+0T(n)—T
+2 T(I)
+T(n) =O(nlogn)
+T(n) =O(nlogn)
+T(n) = 0 (n loglogn)
+1
+1
+다음 함수에 대해 답하라•
+function hello-printer(k)
+print("Hello"), print("Hello"), print("Hello")
+=ltok
+fori
+print("He110"), print("Hello"), print("Hello"), print("Hello")
+=ltok-1
+forj
+print("Hello"), print("He110")
+return
+(1) 위의 함수가 k= 2일 때 '11e110"는 몇 번 출력 되는가?
+i13 ㉭답없음
+010
+㉩11
+㉭12
+(2) 위의 함수가 k=n일 때 '11e110”가 몇 번 출력되는지를 n의 함수로 적절
+히 나타낸 것은? 단, n은 양의 정수이다.
+㉦2,12十5
+02n2十4n十3
+58
+1

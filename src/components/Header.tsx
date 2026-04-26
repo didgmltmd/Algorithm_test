@@ -12,8 +12,8 @@ export const Header = ({ onHome }: HeaderProps) => (
           <BookOpen size={19} />
         </span>
         <span>
-          <strong className="block text-base">알고리즘 중간고사 실습</strong>
-          <span className="hidden text-xs text-muted sm:block">PDF 예제 기반 코딩 연습</span>
+          <strong className="block text-base">알고리즘 중간고사 연습</strong>
+          <span className="hidden text-xs text-muted sm:block">코딩 문제와 책 연습문제 풀이</span>
         </span>
       </button>
       <button

@@ -1,0 +1,46 @@
+﻿ORITHM
+0.01초가 걸렸고, 입력 그기가 8일 때 40.96초 걸렸다.
+(1) 이 알고리즘의 시간복잡도가 T(n) =nk일 때 k값은?
+㉦8
+㉭6
+01
+@3
+(2) 이 알고리즘의 시간복잡도가 T(n) = /cn일 때 값은?
+=1
+알고리즘
+17. 어떤 알고리즘을 입력 그기가 2일 때 실제로 어떤 컴퓨터에서 실행시걱눗
+㉭답없음
+ALGORITHM
+1
+㉦4
+㉭3
+01
+㉣2
+㉭답 없음
+18. 다음은 순환 관계를 각각 0-표기로 표현한 것이다. 다음 중 옳지 것(
+모두 고르라.
+OT(n)=9T 끄 +n, T(I)
+@T(n)=3T 끄 +n, T(I)
+OT(n)=T +T 뿦 +n,
+@T(n)=2T 프 +n2, T(I)
+. 다음 함수에 대해 답하라.
+function hello—printer(k)
+T(I)
+T(n) = O(nlogn)
+T(n) = O(nlogn)
+T(n) = (n 10g10gn)
+7
+print("HelIo"), print("HeIIo"), print("HeIlo")
+fori=l tok
+print("flello"), print("Hello"), print("Hello"), print("HeIIo")
+forj = 1 to k—l
+print("Hello"), print("Hello")
+return
+(1) 위의 함수가 k= 2일 때 '亶e110”는 몇 번 출력되는가?
+㉣11
+㉭12 Y13
+㉭답없음
+(2) 위의 함수가 k=n일 때 '質e110"가 몇 번 출력되는지를 n의 함수로 적절
+히 나타낸 것은? 단, n은 양의 정수이다.
+2n2十5
+2n2十4n十3

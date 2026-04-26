@@ -207,7 +207,7 @@ for coin in coins:
     change %= coin
 print(count)`),
     concept("현재 남은 금액에서 가장 큰 동전을 먼저 선택한다.", "O(k)", "O(1)", "그리디가 항상 맞는 동전 체계인지 구분해야 한다."),
-    [tc("1260", "6"), tc("780", "6")],
+    [tc("1260", "6"), tc("780", "7")],
   ),
   problem(
     "c2-euclid-gcd",
@@ -901,7 +901,7 @@ print(total_profit)`),
     "첫 줄에 N, 둘째 줄에 N개의 빈도가 주어진다.",
     "총 병합 비용을 출력한다.",
     "4\n5 9 12 13",
-    "68",
+    "78",
     starter(`import heapq
 n = int(sys.stdin.readline())
 heap = list(map(int, sys.stdin.readline().split()))
@@ -915,7 +915,7 @@ while len(heap) > 1:
     heapq.heappush(heap, merged)
 print(total_cost)`),
     concept("가장 낮은 빈도 두 개를 합치는 선택을 반복해 접두부 코드 트리를 만든다.", "O(n log n)", "O(n)", "최소 힙을 사용해야 매번 가장 작은 두 빈도를 빠르게 찾는다."),
-    [tc("4\n5 9 12 13", "68"), tc("6\n45 13 12 16 9 5", "224")],
+    [tc("4\n5 9 12 13", "78"), tc("6\n45 13 12 16 9 5", "224")],
   ),
   problem(
     "c3-heapq-merge-sort",

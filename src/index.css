@@ -24,3 +24,29 @@ select {
   scrollbar-width: thin;
   scrollbar-color: #cfd6e3 transparent;
 }
+
+.result-badge-pop {
+  display: inline-block;
+  animation: result-badge-pop 520ms ease both;
+}
+
+@keyframes result-badge-pop {
+  0% {
+    transform: translateX(0) scale(1);
+  }
+  20% {
+    transform: translateX(-3px) scale(1.04);
+  }
+  40% {
+    transform: translateX(3px) scale(1.04);
+  }
+  60% {
+    transform: translateX(-2px) scale(1.02);
+  }
+  80% {
+    transform: translateX(2px) scale(1.01);
+  }
+  100% {
+    transform: translateX(0) scale(1);
+  }
+}
